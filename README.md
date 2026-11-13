@@ -1,6 +1,6 @@
-# Yank releases
+# Yank Ultimate
 
-Signed and notarized builds of [Yank](https://yank.tools), the clipboard manager for macOS, for people who download it outside the Mac App Store.
+Signed and notarized builds of Yank Ultimate, the edition of the Yank clipboard manager that pastes for you.
 
 Download the latest version from the [latest release](https://github.com/arxhive/yank-releases/releases/latest) or from [yank.tools](https://yank.tools).
 
